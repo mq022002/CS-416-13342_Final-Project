@@ -1,3 +1,5 @@
+# THIS REPOSITORY HAS BEEN ARCHIVED AFTER SUCCESSFUL COMPLETION OF THS PROJECT
+
 # FitForge
 ### Final Project for CS-416 Web Programming, at Central Connecticut State University. 
 ### Team: Michael Cox, Sean Clifford, and Matthew Quijano.
